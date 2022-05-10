@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P-ano-past
+- 👋 Hi, I’m Marc
 - 👀 I’m interested in learning more about Javascript and Reaact. The projects I'm currently working on primarily focus on building out components that I can reuse for other projects. 
 - 🌱 I’m currently learning Spanish as a second language to speak. 
 - 💞️ I’m looking to collaborate on projects for resume building or even employment
