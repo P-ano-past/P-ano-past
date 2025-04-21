@@ -34,10 +34,8 @@ I'm a **Full Stack Software Engineer** specializing in the **MERN stack** — wi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=P-ano-past
-&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-ano-past
-&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=P-ano-past&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-ano-past&theme=radical" height="150"/>
 </p>
 <!---
 P-ano-past/P-ano-past is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
